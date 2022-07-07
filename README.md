@@ -1,3 +1,8 @@
-# Project 3
+# Playful Plants Catalog
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+Try this URL: https://kj234-project3.herokuapp.com/
+
+You can log in using:
+
+- Username: kj234
+- Password: monkey
